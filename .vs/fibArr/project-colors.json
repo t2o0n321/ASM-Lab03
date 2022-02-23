@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e859d7ae-de3a-4325-8b7e-d3b7a822d7b3": {
+      "ProjectGuid": "e859d7ae-de3a-4325-8b7e-d3b7a822d7b3",
+      "DisplayName": "fibArr",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "其他檔案",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
